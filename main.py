@@ -6,3 +6,4 @@ prem = 2 * (length + width)
 
 print(f"The area is {area}")
 print(f"The perimeter is {prem}")
+
